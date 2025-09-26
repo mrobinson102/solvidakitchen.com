@@ -13,11 +13,6 @@ It provides a professional **"Coming Soon"** landing page and directs visitors t
 - Link directly to the technical showcase.  
 
 ---
-
-## Status
-🚧 **Work in Progress** — Live "Coming Soon" page online, AI showcase under development.  
-
----
 ## Architecture Overview
 
 The Sol Vida Kitchen platform uses three coordinated domains to separate focus areas:
@@ -31,6 +26,12 @@ The Sol Vida Kitchen platform uses three coordinated domains to separate focus a
 </p>
 
 ---
+
+## Status
+🚧 **Work in Progress** — Live "Coming Soon" page online, AI showcase under development.  
+
+---
+
 
 ## Related Domains
 - [solvidakitchen.com](https://solvidakitchen.com) — Main landing page  
