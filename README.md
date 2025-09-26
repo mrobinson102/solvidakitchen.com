@@ -26,7 +26,9 @@ The Sol Vida Kitchen platform uses three coordinated domains to separate focus a
 - **solvidakitchen.ai** → Technical showcase for AI + RPA demos and portfolio  
 - **solvidakitchen.app** → Updates hub with posts, announcements, and progress  
 
-![Sol Vida Kitchen Architecture](/docs/solvidakitchen-architecture.png)
+<p align="center">
+  <img src="docs/solvidakitchen-architecture.png" alt="Sol Vida Kitchen Architecture Diagram" width="600"/>
+</p>
 
 ---
 
